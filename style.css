@@ -1,0 +1,59 @@
+
+
+.titulo {
+    background-attachment: fixed;
+    background-color: rgb(128, 109, 109);
+    padding: 10px 10px;
+}
+h5{
+    color: rgb(124, 38, 6);
+    
+}
+.text-naturaleza{
+    color: black;
+}
+
+.subtitulo {
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(69, 78, 78, 0.356);
+    background-size: cover;
+}
+.boton{
+    margin-top: 2rem;
+    border-color: darkorange;
+    background: orangered;
+}
+.texto {
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(101, 203, 219, 0.897);
+    background-size: cover;
+    background-image: none;
+
+}
+.textmasaje {
+    color: black;
+}
+
+.paginas {
+    text-decoration: none;
+    padding: 10px;
+
+}
+a:hover { text-decoration: underline;
+    background-color: rgba(64, 167, 132, 0.795);
+    color: darkgrey;
+
+}
+ .footer{
+   background-color: dimgray;
+    color: black;
+    background-color: rgb(80, 85, 95);
+    text-decoration-color: black;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+ }
+ 
+  
